@@ -1,0 +1,19 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body
+{
+    height: 110vh;
+}
+
+.empty-list
+{
+    text-align: center;
+}
+
+.duplicate-alert {
+    width: 800px;
+}
